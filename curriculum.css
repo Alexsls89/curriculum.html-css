@@ -1,0 +1,52 @@
+h2{
+    color:rgb(146, 8, 38)
+}
+h1{
+
+    color:rgba(3, 3, 48, 0.863)
+}
+h3{
+    color:darkslategrey
+}
+
+.conteiner {
+    background-color: rgba(90, 172, 219, 0.788);
+}
+
+.conteiner {
+    background-color: rgba(90, 172, 219, 0.788);
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:13;
+    font-style:italic
+}
+
+    h6 {
+        font-style: oblique;
+    }
+
+    h2 {
+        border: 20px solid rgba(3, 3, 48, 0.863); 
+        border-radius:100px;
+    }
+
+    h6 {
+        border: 3px solid;
+      border-top-right-radius: 100px;
+      border-top-left-radius: 50px;
+    background-color: aqua;
+    }
+
+    p {
+        border: 3px solid;
+        border-top-right-radius:30px;
+        background-color: rgba(255, 127, 80, 0.452);
+    }
+
+    li {
+        border: 3px solid;
+        border-top-right-radius:30px;
+        background-color:rgba(205, 72, 209, 0.5)
+    }
